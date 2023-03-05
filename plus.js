@@ -104,7 +104,7 @@ client.elevation = message => {
     if (message.author.id === ayarlar.sahip) permlvl = 4;
     return permlvl;
 };
-client.login("ODU1MzYzMjczOTAwNTU2MzI4.YMxZIA.SQGSorfA_7ILfP1-RttUaPHGKt0")
+client.login("ODU0MTg5OTY0MzMwMTM5Njk5.G37KZm.UIWJjZQLRNwDki0-MjhnFzia1w38DsPowMdvTA")
 
 
 //------------------------ Halka Açık Random Gif Pp -----------------------//
